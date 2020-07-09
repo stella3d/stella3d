@@ -1,16 +1,30 @@
-### Hi there 👋
+# Stella Cannefax 
 
-<!--
-**stella3d/stella3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Long-time software engineer at [Unity](https://unity.com/), currently making tools for VR/AR creators.  
 
-Here are some ideas to get you started:
+I'm an individual/technical contributor focused on real-time 3D. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Working On
+
+☀:  Unity's [Mixed & Augmented Reality Studio](https://unity.com/products/mars), commonly known as MARS.  I specialize in its procedural content layout system.
+
+🌃: My own toy 3D renderer & engine
+
+
+## Tech Sucks (I know)
+
+While I love my work, I find the dominant culture around technology creation to be very sad & exploitative.   
+
+I often think about how much better technology could be - both for creators/workers and users - if most of us were not forced to create it in an environment focused on the profit motive. Always interested in meeting other tech workers who feel similarly & want to do something about it.
+
+
+## Hobbies
+
+At home on the dancefloor.  I do live video art (VJ-ing) & electronic dance music sometimes.  
+
+## Get @ Me
+
+My only public social media is [Twitter](https://twitter.com/simulacracid).  
+ 
+I generally don't answer my email, so if you find it don't message me there.
