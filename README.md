@@ -1,8 +1,6 @@
 # Stella Cannefax 
 
-Long-time software engineer at [Unity](https://unity.com/), currently making tools for VR/AR creators.  
-
-I'm an individual/technical contributor focused on real-time 3D. 
+Long-time Unity & web software engineer, focused on tools for real-time 3D. 
 
 ## Hobbies
 
