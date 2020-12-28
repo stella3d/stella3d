@@ -10,4 +10,4 @@ At home on the dancefloor.  I do live video art (VJ-ing) & electronic dance musi
 
 My only public social media is [Twitter](https://twitter.com/simulacracid).  
  
-I generally don't answer my email, so if you find it don't message me there.
+Reaching me there is more reliable than looking for my email on here! 
