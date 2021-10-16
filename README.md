@@ -1,6 +1,6 @@
 # Stella Cannefax 
 
-Long-time Unity & web software engineer, focused on tools for real-time 3D. 
+Long-time Unity & web software engineer, now working on blockchain / smart contracts.
 
 ## Hobbies
 
