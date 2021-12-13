@@ -8,6 +8,5 @@ At home on the dancefloor.  I do live video art (VJ-ing) & electronic dance musi
 
 ## Get @ Me
 
-My only public social media is [Twitter](https://twitter.com/simulacracid).  
+My only public social media is [Twitter](https://twitter.com/0xstella).  
  
-Reaching me there is more reliable than looking for my email on here! 
