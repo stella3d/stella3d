@@ -8,5 +8,5 @@ At home on the dancefloor.  I used to do live video art (VJ-ing) & electronic da
 
 ## Get @ Me
 
-My only public social media is [Twitter](https://twitter.com/0xstella).  
+I'm on Bluesky @ [stellz.xyz](http://stellz.xyz)
  
