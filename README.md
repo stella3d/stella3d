@@ -4,7 +4,7 @@ Long-time Unity & web software engineer, now working on blockchain / smart contr
 
 ## Hobbies
 
-At home on the dancefloor.  I do live video art (VJ-ing) & electronic dance music sometimes.  
+At home on the dancefloor.  I used to do live video art (VJ-ing) & electronic dance music sometimes.  
 
 ## Get @ Me
 
