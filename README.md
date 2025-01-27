@@ -1,10 +1,8 @@
-# Stella C
+# Stella Cannefax
 
-Long-time Unity & web software engineer, now working on blockchain explorers
+Long-time Unity & web software engineer, now working on the Dora blockchain explorer, which I co-founded. 
 
-## Hobbies
-
-At home on the dancefloor.  I used to do live video art (VJ-ing) & electronic dance music sometimes.  
+I write Rust, SQL, & Typescript at work these days, but most of my old code on here is C#.
 
 ## Get @ Me
 
